@@ -1,3 +1,3 @@
 ## TheMusicPlayer
 
-An App Inventor 2 extension created using Rush.
+A Music Player Extension For AI2 to play music from Url.
